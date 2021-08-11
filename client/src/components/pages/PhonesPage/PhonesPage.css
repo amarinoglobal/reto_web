@@ -1,0 +1,23 @@
+.phone-card {
+    margin-bottom: 40px;
+}
+
+.phone-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+}
+
+.phone-card h3 {
+    margin-top: 10px;
+    font-weight: 300;
+}
+
+.phone-card img {
+    height: 420px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.btn-block {
+    width: 100%;
+}
