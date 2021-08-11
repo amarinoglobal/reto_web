@@ -24,8 +24,8 @@ Path	                Description
 /iniciar-sesión             Inicio de sesión de usuario
 /registro                   Registro de nuevo usuario
 /mi-perfil                  Mi perfil
-/telefonos/crear             Crear nuevo telefono movil
-/telefonos/detalle/:id       Detalle de telefono movil
+/telefonos/crear            Crear nuevo telefono movil
+/telefonos/detalle/:id      Detalle de telefono movil
 ```
 ***
 
