@@ -18,7 +18,7 @@
 # Listado de endpoints desarrollados:    
 ***
 ```
-Path	                Description
+Path	                    Description
 /                           Index
 /telefonos                  Registra un nuevo telefono movil
 /iniciar-sesión             Inicio de sesión de usuario
