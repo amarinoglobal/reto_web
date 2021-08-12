@@ -51,8 +51,8 @@ class PhonesList extends Component {
 
             !this.state.phones
                 ?
-                <p style={{ position: "absolute", left: "50%", marginLeft: "-100px", top: "50%", marginTop: "-100px" }}> <Spinner size='lg' shape='circle' /></p>
-                // <h3>CARGANDO...</h3>
+                <div style={{ position: "absolute", left: "50%", marginLeft: "-100px", top: "50%", marginTop: "-100px" }}> <Spinner size='lg' shape='circle' /></div>
+                
                 :
                 (
                     <>
